@@ -40,8 +40,4 @@ We welcome contributions from the community. If you have ideas, bug reports, or 
 
 RL4RF is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-We would like to acknowledge the contributions of the open-source community and the developers of the libraries and tools that make this framework possible.
-
 Happy Trading with RL4RF!
