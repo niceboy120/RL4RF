@@ -1,4 +1,4 @@
-# RL4RF: Reinforcement Learning Framework for Forex Trading
+# RL4RF: Reinforcement Learning Framework for Forex Trading (Still in Dev)
 
 ## Overview
 
